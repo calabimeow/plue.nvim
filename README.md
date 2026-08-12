@@ -1,6 +1,6 @@
 # Preview
 
-<img width="1881" height="969" alt="plue_preview" src="https://github.com/user-attachments/assets/57a158e1-5c8e-4dd0-a5a0-14ab00949162" />
+<img width="1879" height="970" alt="plue_preview" src="https://github.com/user-attachments/assets/109c834c-835f-453f-b865-3f9554d7b937" />
 
 # Installation
 ## Packer

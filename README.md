@@ -1,8 +1,8 @@
-minimalistic neovim color scheme
+Minimalistic neovim color scheme
 
 # Preview
 
-<img width="1879" height="970" alt="plue_preview" src="https://github.com/user-attachments/assets/109c834c-835f-453f-b865-3f9554d7b937" />
+<img width="1890" height="965" alt="plue_preview" src="https://github.com/user-attachments/assets/0a9f8fac-f8be-4333-b806-e0c684d7b5b2" />
 
 # Installation
 ## Packer
